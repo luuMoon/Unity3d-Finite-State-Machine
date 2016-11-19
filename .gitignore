@@ -14,4 +14,6 @@
 /example_project/*.unityproj
 /example_project/.vs
 /example_project/_Resharper.*
+*.meta
+
 
